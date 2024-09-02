@@ -13,7 +13,7 @@ apt update && apt upgrade -y && update-grub && sleep 2 && reboot
 ## INSTALL SCRIPT 
 Masukkan perintah dibawah untuk menginstall Autoscript Premium
 ```
-apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/drixy-prov/instalasi/main/setup.sh && chmod +x setup.sh && ./setup.sh
+apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/ataliomego/authentic/main/setup.sh && chmod +x setup.sh && ./setup.sh
 ```
 ## Akses Gratis 
 Script Ini Gratis Untuk Kita Semua. Untuk mendaftarkan IP Anda, Hubungi tim kami melalui WA dibawah ini:
